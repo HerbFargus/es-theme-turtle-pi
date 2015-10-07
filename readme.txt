@@ -8,6 +8,12 @@ Transfer turtlepi-main to /etc/emulationstation/themes/
 
 Open Menu -> Select UI Settings ->  Theme Set
 
+Changing Theme Colours
+=======================
+
+Rename turtlepi-main-blue to turtlepi-main and vice-versa -> F4 (refresh emulationstation)
+Also add Squared Version (untested)
+
 Changelog('Turtle Pi' v1.1)
 ========================
 
