@@ -6,6 +6,7 @@
 
 		<image name="logo">
 			<path>./logo.svg</path>
+			<maxSize>1 0.14</maxSize>
         </image>
 	</view>
 	
