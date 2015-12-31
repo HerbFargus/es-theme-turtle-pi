@@ -21,7 +21,7 @@ RecalBox Compatibility
 	-PrBoom -> will not do (they should be .sh from the ports)
 	-MoonLight -> RecalBox
 	-LimeLight -> Retropie
-	-Sg1000 (renamed)
+	-Sg1000 (renamed) -> RecalBox
 
 Changelog('Turtle Pi' v1.1)
 ==========================
