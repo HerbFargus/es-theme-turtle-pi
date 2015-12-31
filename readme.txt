@@ -14,8 +14,17 @@ Changing Theme Colours
 Rename turtlepi-main-blue to turtlepi-main and vice-versa -> F4 (refresh emulationstation)
 Also add Squared Version (untested)
 
+Changelog('Turtle Pi' v1.2)
+==========================
+RecalBox Compatibility
+	-Cave Story -> will not do (they should be .sh from the ports)
+	-PrBoom -> will not do (they should be .sh from the ports)
+	-MoonLight -> RecalBox
+	-LimeLight -> Retropie
+	-Sg1000 (renamed)
+
 Changelog('Turtle Pi' v1.1)
-========================
+==========================
 
 Folders and XML Cleanups (File Structure Simplified)
 Single .svg logo will be used for main and sub-menus
@@ -24,10 +33,17 @@ Fixed no scraper gamelist
 New System Images
 
 Changelog('Turtle Pi' v1.0)
-========================
+==========================
 
 Initial Release
 (06/22/2015)
+
+Credits
+=======
+phrazelle
+InsecureSpike
+sekazi
+Vlad Gerasimov
 
 License
 =======
