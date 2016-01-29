@@ -1,6 +1,6 @@
 <!--
 theme name:		turtlepi-main
-version:		1.1
+version:		1.3
 author:			Omnija & Sotaeko
 license:		creative commons CC-BY-NC-SA
 -->
@@ -90,6 +90,7 @@ license:		creative commons CC-BY-NC-SA
 		<helpsystem name="help">
 			<textColor>ffffff</textColor>
 			<iconColor>ffffff</iconColor>
+			<pos>0.020 0.935</pos>
 		</helpsystem>
 
 	</view>
