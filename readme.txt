@@ -14,6 +14,11 @@ Changing Theme Colours
 Rename turtlepi-main-blue to turtlepi-main and vice-versa -> F4 (refresh emulationstation)
 Also add Squared Version (untested)
 
+Changelog('Turtle Pi' v1.3)
+==========================
+Modified "Help Bar" location
+Drew up a new background to replace the borrowed one
+
 Changelog('Turtle Pi' v1.2)
 ==========================
 RecalBox Compatibility
